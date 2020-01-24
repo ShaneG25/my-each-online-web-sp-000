@@ -1,3 +1,3 @@
 def my_each(xyz)
-  while 
+  i = 0 
 end
