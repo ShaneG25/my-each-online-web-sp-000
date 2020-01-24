@@ -1,3 +1,3 @@
-def my_each()
-  # code here
+def my_each([1, 2, 3, 4])
+  while 
 end
